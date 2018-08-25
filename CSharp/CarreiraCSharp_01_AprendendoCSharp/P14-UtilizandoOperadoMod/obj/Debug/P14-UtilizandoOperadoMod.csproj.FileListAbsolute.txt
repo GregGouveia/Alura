@@ -1,0 +1,7 @@
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P14-UtilizandoOperadoMod\bin\Debug\P14-UtilizandoOperadoMod.exe.config
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P14-UtilizandoOperadoMod\bin\Debug\P14-UtilizandoOperadoMod.exe
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P14-UtilizandoOperadoMod\bin\Debug\P14-UtilizandoOperadoMod.pdb
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P14-UtilizandoOperadoMod\obj\Debug\P14-UtilizandoOperadoMod.csprojAssemblyReference.cache
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P14-UtilizandoOperadoMod\obj\Debug\P14-UtilizandoOperadoMod.csproj.CoreCompileInputs.cache
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P14-UtilizandoOperadoMod\obj\Debug\P14-UtilizandoOperadoMod.exe
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P14-UtilizandoOperadoMod\obj\Debug\P14-UtilizandoOperadoMod.pdb

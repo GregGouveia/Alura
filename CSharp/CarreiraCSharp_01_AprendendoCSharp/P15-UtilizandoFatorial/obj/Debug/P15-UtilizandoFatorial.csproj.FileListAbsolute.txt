@@ -1,0 +1,7 @@
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P15-UtilizandoFatorial\bin\Debug\P15-UtilizandoFatorial.exe.config
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P15-UtilizandoFatorial\bin\Debug\P15-UtilizandoFatorial.exe
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P15-UtilizandoFatorial\bin\Debug\P15-UtilizandoFatorial.pdb
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P15-UtilizandoFatorial\obj\Debug\P15-UtilizandoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P15-UtilizandoFatorial\obj\Debug\P15-UtilizandoFatorial.exe
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P15-UtilizandoFatorial\obj\Debug\P15-UtilizandoFatorial.pdb
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P15-UtilizandoFatorial\obj\Debug\P15-UtilizandoFatorial.csprojAssemblyReference.cache

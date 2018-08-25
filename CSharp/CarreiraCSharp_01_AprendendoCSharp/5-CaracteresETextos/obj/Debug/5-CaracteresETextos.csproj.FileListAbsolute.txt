@@ -1,0 +1,7 @@
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

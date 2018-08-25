@@ -1,0 +1,7 @@
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P13-Projeto 13\bin\Debug\P13-Projeto 13.exe.config
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P13-Projeto 13\bin\Debug\P13-Projeto 13.exe
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P13-Projeto 13\bin\Debug\P13-Projeto 13.pdb
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P13-Projeto 13\obj\Debug\P13-Projeto 13.csproj.CoreCompileInputs.cache
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P13-Projeto 13\obj\Debug\P13-Projeto 13.exe
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P13-Projeto 13\obj\Debug\P13-Projeto 13.pdb
+C:\Users\gr385589\source\repos\Alura\AprendendoCSharp\P13-Projeto 13\obj\Debug\P13-Projeto 13.csprojAssemblyReference.cache

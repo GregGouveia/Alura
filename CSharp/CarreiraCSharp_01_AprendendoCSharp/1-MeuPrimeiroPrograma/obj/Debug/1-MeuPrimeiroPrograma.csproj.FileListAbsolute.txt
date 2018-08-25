@@ -1,0 +1,7 @@
+C:\Users\gr385589\source\repos\Alura\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\bin\Debug\1-MeuPrimeiroPrograma.exe.config
+C:\Users\gr385589\source\repos\Alura\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\bin\Debug\1-MeuPrimeiroPrograma.exe
+C:\Users\gr385589\source\repos\Alura\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\bin\Debug\1-MeuPrimeiroPrograma.pdb
+C:\Users\gr385589\source\repos\Alura\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.csprojAssemblyReference.cache
+C:\Users\gr385589\source\repos\Alura\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\gr385589\source\repos\Alura\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.exe
+C:\Users\gr385589\source\repos\Alura\1-MeuPrimeiroPrograma\1-MeuPrimeiroPrograma\obj\Debug\1-MeuPrimeiroPrograma.pdb
