@@ -1,1 +1,0 @@
-Testando arquitetura de pastas CSHARP
